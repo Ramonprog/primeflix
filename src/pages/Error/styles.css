@@ -1,0 +1,20 @@
+.not-found {
+  text-align: center;
+}
+
+.not-found h1,
+h2 {
+  margin: 10px 10px;
+}
+
+.not-found h1 {
+  font-size: 120px;
+}
+
+.not-found a {
+  background-color: #116feb;
+  color: #fff;
+  padding: 10px 14px;
+  display: block;
+  margin-top: 14px;
+}
