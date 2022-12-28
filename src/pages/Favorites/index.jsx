@@ -24,7 +24,7 @@ const Favorites = () => {
     <div className="my-movies">
       <h1>Meus filmes</h1>
 
-      {movie.length === 0 && <span className='no-movie'>Você não tem Filme 😭</span>}
+      {movie.length === 0 && <span>Você não tem Filme 😭</span>}
 
       <ul>
         {movie.map((item) => (
