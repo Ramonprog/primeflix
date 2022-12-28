@@ -49,3 +49,7 @@
   cursor: pointer;
   border: none;
 }
+
+.no-movie span{
+  text-align: center;
+}
