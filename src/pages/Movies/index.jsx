@@ -80,7 +80,7 @@ const Movies = () => {
           rel="external"
           href={`https://www.youtube.com/results?search_query=${movieDetail.title} trailer`}
         >
-          Treiler
+          Trailer
         </a>
       </div>
     </div>
